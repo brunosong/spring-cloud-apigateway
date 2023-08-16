@@ -2,4 +2,4 @@ spring:
   cloud:
     config:
       uri: http://localhost:8888
-      name: ecommerce       #컨피그 서버에서 ecommerce.yml 파일을 말하는것이다.
+      name: config-service
